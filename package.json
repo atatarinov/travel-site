@@ -1,5 +1,5 @@
 {
-  "name": "website-sample",
+  "name": "travel-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alex Tatarinov",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "normalize.css": "^7.0.0"
   }
 }
